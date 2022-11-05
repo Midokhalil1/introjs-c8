@@ -87,4 +87,5 @@ console.log(fruits)
 
 // console.log(fruits.indexOf("mango"))
 
-console.log(` my fruits are: ${fruits.join(", ")}`)
+console.log(` my fruits are: ${fruits.join(", ")}`)   
+
